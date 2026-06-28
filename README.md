@@ -5,3 +5,4 @@
 -->
 Currently a Computer Science student in his 2nd year, learning new skills 
 
+![Loading](gif.gif)
