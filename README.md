@@ -6,23 +6,12 @@
 ![Loading](gif2.gif)
 
 
-💻 2nd Year BTech CSE Student
-🌱 Currently learning:
-- Backend Development
-- Data Structures & Algorithms
-- System Design
-- Databases
+## 👨‍💻 About Me
 
-🚀 Tech Stack
-- Java
-- JavaScript
-- Node.js
-- Express.js
-- SQL
-- Git & GitHub
-
-📌 Current Project
-Space Explorer Dashboard API
+- 🎓 BTech CSE Student
+- 🌱 Currently learning Backend Development and System Design
+- 💻 Building scalable APIs and solving DSA problems
+- 🎯 Goal: Become a Software Engineer and contribute to Open Source
 
 🎯 2026 Goals
 - Solve 300+ LeetCode problems
