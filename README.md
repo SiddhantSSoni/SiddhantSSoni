@@ -13,7 +13,7 @@
 - 💻 Building scalable APIs and solving DSA problems
 - 🎯 Goal: Become a Software Engineer and contribute to Open Source
 
-🎯 2026 Goals
+🎯 Goals
 - Solve 300+ LeetCode problems
 - Build 5 production-ready projects
 - Contribute to Open Source
