@@ -20,7 +20,7 @@
 - Land a Software Development Internship
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddhantsoni-404&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SiddhantSSoni&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
