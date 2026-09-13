@@ -28,7 +28,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,c,java,py,mysql,git,github,gitlab,vscode,cloudflare,powershell,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,c,java,py,mysql,git,github,gitlab,vscode,cloudflare)](https://skillicons.dev)
 
 ## 🎯 Goals
 - Solve 300+ LeetCode problems
