@@ -6,14 +6,31 @@
 ![Loading](gif2.gif)
 
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 BTech CSE Student
 - 🌱 Currently learning Backend Development and System Design
 - 💻 Building scalable APIs and solving DSA problems
 - 🎯 Goal: Become a Software Engineer and contribute to Open Source
 
-🎯 Goals
+<br>
+
+<div align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumarsoni1515@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+  <a href="https://www.linkedin.com/in/siddhant-soni-a9920836b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,c,java,py,mysql,git,github,gitlab,vscode,cloudflare,powershell,ubuntu)](https://skillicons.dev)
+
+## 🎯 Goals
 - Solve 300+ LeetCode problems
 - Build 5 production-ready projects
 - Contribute to Open Source
